@@ -1,0 +1,9 @@
+## Interface: 100002
+## Title: CraftingSimulator
+## Notes: Addon to simulate the result of crafting recipes using different tiers of reagent quality and optional reagents
+## Author: Adsime
+## Version: 0.0.1
+
+CraftingSimulatorFrame.xml
+
+CraftingSimulator.lua
